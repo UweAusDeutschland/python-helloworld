@@ -8,7 +8,7 @@ on:
 
 jobs:
     build:
-        runs-on: ubintu-latest
+        runs-on: ubuntu-latest
 
         steps:
             - name: Check out the code
